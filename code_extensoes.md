@@ -76,8 +76,6 @@ React
 
 ### VSCode Browser Sync
 
-### VSCode Browser Sync
-
 É uma espécie de Live Server
 
 Sincroniza uma página HTML no Browser
