@@ -41,6 +41,12 @@ Detalhamento da saída de compilação do projeto MSBuild:
 
 > Normal ✅
 
+## Recarga Dinâmica
+
+Do lado do foguinho
+
+✅ Recarga Dinâmica ao salvar arquivo
+
 ## Fonte
 
 Ferramentas ➔ Opções ➔ Ambiente ➔ Fontes e Cores ➔ Mostrar configurações de:
